@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently career shifting to become a developer!
+- 🌱 I’m currently learning Javascript
+
 <!--
 **SaeedKokash/SaeedKokash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
