@@ -1,7 +1,3 @@
-
-
-
-
 <h1 align="center">Hi 👋, I'm Saeed Kokash</h1>
 <h3 align="center">A passionate full Stack developer from Jordan</h3>
 
