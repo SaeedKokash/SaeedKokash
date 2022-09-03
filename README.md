@@ -1,9 +1,6 @@
-### Hi there 👋
 
-- 🔭 I’m currently career shifting to become a developer!
-- 🌱 I’m currently learning Javascript
 
-![](https://github-readme-stats.vercel.app/api?username=saeedkokash&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
+
 
 <h1 align="center">Hi 👋, I'm Saeed Kokash</h1>
 <h3 align="center">A passionate full Stack developer from Jordan</h3>
@@ -39,6 +36,8 @@
 
 <!--
 **SaeedKokash/SaeedKokash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+![](https://github-readme-stats.vercel.app/api?username=saeedkokash&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
 
 Here are some ideas to get you started:
 
