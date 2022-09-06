@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 👨‍💻 All of my projects are available at [https://singular-kheer-1ae4ca.netlify.app/](https://singular-kheer-1ae4ca.netlify.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://saeed-kokash-portfolio.netlify.app/)
 
 - 📫 How to reach me **saeedkokash@gmail.com**
 
