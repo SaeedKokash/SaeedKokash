@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saeed Kokash</h1>
-<h3 align="center">A passionate full Stack developer from Jordan</h3>
+<h3 align="center">A Passionate Full Stack Developer From Jordan</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=saeedkokash&label=Profile%20views&color=0e75b6&style=flat" alt="saeedkokash" /> </p>
 
