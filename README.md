@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saeed Kokash</h1>
-<h3 align="center">A Passionate Full Stack Developer From Jordan</h3>
+<h3 align="center">Software Engineer From Jordan</h3>
 
-<p> Hi there! I'm a 29-year-old Full Stack developer with a background in architecture. After completing my bachelor's degree in architecture from the German Jordanian University in Amman, I decided to make a career shift and pursue my passion for software development. I took a Code Fellows Software Development course and have been working as a Full Stack developer ever since. I'm passionate about creating high-quality software that solves real-world problems and brings value to people's lives. When I'm not coding, you can find me hiking, reading, or trying out new recipes in the kitchen. </p>
+<p> Hi there! I'm a 29-year-old Full Stack developer with a background in architecture. After completing my bachelor's degree in architecture from the German Jordanian University in Amman, I decided to make a career shift and pursue my passion for software development. I took a Code Fellows Software Development course and have been working as a Full Stack developer ever since. I'm passionate about creating high-quality software that solves real-world problems and brings value to people's lives. When I'm not coding, you can find me reading, gaming or trying out new concepts in software development. </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=saeedkokash&label=Profile%20views&color=0e75b6&style=flat" alt="saeedkokash" /> </p>
 
