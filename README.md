@@ -1,7 +1,7 @@
 <h1 align="center">Saeed Kokash</h1>
 <h3 align="center">Software Engineer From Jordan</h3>
 
-<p> Hi there! I'm a 29-year-old Full Stack developer with a background in architecture. After completing my bachelor's degree in architecture from the German Jordanian University in Amman, I decided to make a career shift and pursue my passion for software development. I took a Code Fellows Software Development course and have been working as a Full Stack developer ever since. I'm passionate about creating high-quality software that solves real-world problems and brings value to people's lives. When I'm not coding, you can find me reading, gaming or trying out new concepts in software development. </p>
+<p> Hi there! I'm a 30-year-old Full Stack developer with a background in architectural Engineering. After completing my bachelor's degree in architecture and built environment from the German Jordanian University in Amman, I decided to make a career shift and pursue my passion for software development. I took a Code Fellows Software Development course and have been working as a Full Stack developer ever since. I'm passionate about creating high-quality software that solves real-world problems and brings value to people's lives. When I'm not coding, you can find me reading, gaming or trying out new concepts in software development. </p>
 
 <!-- <p align="center"><img src="https://cdn.discordapp.com/attachments/989739808286974002/1076772115639971880/Saeed_Kokash_a_man_in_front_of_a_computer_screen_computer_graph_a7de4411-9442-4499-9793-bd763d3f4956.png"  width="600"></p> -->
 
