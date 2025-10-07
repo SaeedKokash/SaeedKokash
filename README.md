@@ -6,17 +6,18 @@ Welcome to my profile! I am an experienced Software Engineer specializing in ful
 I have several years of experience in developing robust web applications and services. My expertise spans across both front-end and back-end technologies, allowing me to build seamless user experiences while ensuring efficient system performance.
 
 ## Tech Stack
-- **Languages**: JavaScript, Python, Java
-- **Front-End**: React, Angular, HTML, CSS
-- **Back-End**: Node.js, Express, Django
+- **Languages**: JavaScript, TypeScript
+- **Front-End**: React, Angular, Vue.js, HTML, CSS
+- **Back-End**: Node.js, Express, NestJS
 - **Databases**: MongoDB, PostgreSQL, MySQL
-- **Tools**: Git, Docker, Jenkins
+- **Tools**: Git, Docker, Jenkins, Webpack
 
 ## GitHub Stats
 ![Saeed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SaeedKokash&show_icons=true&hide_title=true&count_private=true)
 
 ## Contact Information
 Feel free to reach out to me:
-- Email: saeed.kokash@example.com
+- Email: saeedkokash@gmail.com
 - LinkedIn: [linkedin.com/in/saeedkokash](https://linkedin.com/in/saeedkokash)
-- Twitter: [twitter.com/saeedkokash](https://twitter.com/saeedkokash)
+- Facebook: [facebook.com/saeedkokash](https://fb.com/saeedkokash)
+- Instagram: [instagram.com/saeedkokash](https://instagram.com/saeedkokash)
